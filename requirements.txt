@@ -5,4 +5,3 @@ bayesian-optimization
 joblib
 streamlit
 dagshub
-skopt
